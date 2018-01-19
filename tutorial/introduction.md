@@ -14,7 +14,7 @@ You will need
 3. yarn
 
 ### Getting Started
-To create a new application simple run the command:
+To create a new application simply run the command:
 
 ```npm
 npx create-react-app bird-snap
