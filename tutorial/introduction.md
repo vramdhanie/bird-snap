@@ -36,6 +36,7 @@ yarn start
 ```
 
 The application will start in a local server and open in your browser.
+
 ![The default app screen](images/intro_01.png)
 
 In the terminal you will see that the server is running and awaiting requests.
