@@ -2,10 +2,12 @@
 
 ## Introduction
 
-In this tutorial you will use the amazing *create-react-app* tool to initial and application,
+In this tutorial you will use the amazing *create-react-app* tool to initialize an application,
 then add several components to your react application. You will then use *redux* to 
-manage teh state of the application.
+manage the state of the application.
 
+It is expected that you are already familiar with the fundamentals of JavaScript and the use
+of command line tools.
 
 ### Requirements
 You will need
@@ -39,3 +41,5 @@ The application will start in a local server and open in your browser.
 In the terminal you will see that the server is running and awaiting requests.
 
 ![The server running in the terminal](images/intro_02.png)
+
+Read the next step [Mocking the Main Screen](mock_main_screen.md)
