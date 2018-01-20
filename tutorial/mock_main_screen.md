@@ -30,7 +30,7 @@ class App extends Component {
 export default App;
 ```
 
-### What do you see
+### What you see
 1. The first three lines are import statements used to make other components and
 JavaScript modules available for use in this file.
   - React and { Component } are imported from the *react* package. React is necessary
@@ -40,7 +40,9 @@ JavaScript modules available for use in this file.
   - __App.css__ is the CSS code applied to this component.
 2. The next line of code starts a class representing the component that you are building.
 Most of the code that you write for a component will be in the class block.
-3. The *render()* method is the only required method in a React component. It returns the JSX that defines the UI.
+3. The *render()* method is the only required method in a React component. It returns the JSX that defines the UI. Notice that 
+the code between the parentheses of the `return` statement look like plain old HTML. That is [JSX](https://reactjs.org/docs/introducing-jsx.html) which for the most part behaves just like HTML but is much more. 
+We will be highlighting the differences as we encounter them later.
     
 
 At this point you may edit this code
