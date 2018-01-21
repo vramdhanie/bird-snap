@@ -45,4 +45,14 @@ the code between the parentheses of the `return` statement look like plain old H
 We will be highlighting the differences as we encounter them later.
     
 
-At this point you may edit this code
+### Make Your Own Screen
+Edit the JSX code and add your own layout as you would like. For example
+
+```jsx harmony
+    return (
+      <div className="App">
+        <h1>Welcome to Bird Snap</h1>
+        <p>We are going to have fun!</p>
+      </div>
+    );
+```
